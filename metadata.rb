@@ -1,3 +1,4 @@
+name             'centos-wrapper'
 maintainer       "Naoya Nakazawa"
 maintainer_email "me@n0ts.org"
 license          "All rights reserved"
